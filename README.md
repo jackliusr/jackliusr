@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-In the past years before 2020, I was fascinated with right ways to do softwares and studied following enterprise application technologies. I am still interesting in those technologies. In the covid 19 pandemic period of last half of 2020, I reconsidered life, I shifted my interest into finance and studied accounting, [Investment Philosophies](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastinvphil.htm), [Valuation](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastvalonline.htm). When I was Asia Fusion Technology, I was interested in [startups](#startups)
+In the past years before 2020, I was fascinated with right ways to do softwares and studied following enterprise application technologies. I am still interesting in those technologies. In the covid 19 pandemic period of last half of 2020, I reconsidered life, I shifted my interest into finance and studied accounting, [Investment Philosophies](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastinvphil.htm), [Valuation](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastvalonline.htm). When I was Asia Fusion Technology, I was interested in [startups](#startups) and followed them in 2-3 years.
 
 #### Enterprise application technologies:
 * data modeling: data model resource, EAV, SQL&NoSQL, Analysis Pattern, Party, Product & Product Variant etc
