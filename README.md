@@ -15,8 +15,4 @@ In the past years before 2020, I was fascinated with right ways to do softwares 
 * cloud: aws, alibaba, [kubernetes learning](https://github.com/jackliusr/k8s)
 * cloud native application technologies: 12factor, beyond 12factors
 
-#### startups:
-* [startup school](https://www.startupschool.org/)
-* techcrunch
-* startup news sites from china
 
