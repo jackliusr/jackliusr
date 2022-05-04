@@ -11,8 +11,8 @@ In the past years before 2020, I was fascinated with right ways to do softwares 
 * workflow/process, BPM, BPEL
 * functional programming: clojure, scala
 * big data: machine learning, neural networks, DL etc
-* OS: linux
-* cloud: aws, alibaba, [kubernetes learning](https://github.com/jackliusr/k8s)
+* OS: linux, Windows
+* cloud: aws, azure, alibaba, [kubernetes learning](https://github.com/jackliusr/k8s)
 * cloud native application technologies: 12factor, beyond 12factors
 
 
