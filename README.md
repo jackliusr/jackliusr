@@ -4,15 +4,17 @@ In the past years before 2020, I was fascinated with right ways to do softwares 
 
 #### Enterprise application technologies:
 * data modeling: data model resource, EAV, SQL&NoSQL, Analysis Pattern, Party, Product & Product Variant etc
-* domain driven design(DDD)
+* domain driven design (DDD)
 * Event Sourcing
 * Command and Query Responsibility Segregation (CQRS)
 * ERP frameworks(odoo, idempiere): metadata driven develop, DSL, dynamic form generator, [appliation dictionary](https://adempiere.gitbook.io/docs/system-administration/the-application-dictionary), extension mechanism  etc.
 * workflow/process, BPM, BPEL
-* functional programming: clojure, scala
+* language: c/c++, java, golang, javascript, dart, rust
+* functional programming: clojure, scala, lisp, haskell
 * big data: machine learning, neural networks, DL etc
 * OS: linux, Windows
-* cloud: aws, azure, alibaba, [kubernetes learning](https://github.com/jackliusr/k8s)
+* cloud: aws, azure, alibaba, [kubernetes](https://github.com/jackliusr/k8s)
 * cloud native application technologies: 12factor, beyond 12factors
+* cicd: argocd, argo-workflow, jenkins, github action, gitlab pipeline
 
 
