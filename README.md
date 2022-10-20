@@ -17,5 +17,4 @@ In the past years before 2020, I was fascinated with right ways to do softwares 
 * cloud: aws, azure, alibaba, [kubernetes](https://github.com/jackliusr/k8s)
 * cloud native application technologies: 12factor, beyond 12factors
 * cicd: argocd, argo-workflow, jenkins, github action, gitlab pipeline
-* DevOps & SRE
-
+* DevOps & SRE : ansible, prometheus, influx, grafana, elastic search, kabana, alert, USE/RED metrics, Four Golden Signals
