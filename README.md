@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-In the past years before 2020, I was fascinated with right ways to do softwares and studied following enterprise application technologies. I am still interesting in those technologies. In the covid 19 pandemic period of last half of 2020, I reconsidered life, I shifted my interest into finance and studied accounting, [Investment Philosophies](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastinvphil.htm), [Valuation](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastvalonline.htm). When I was Asia Fusion Technology, I was interested in [startups](#startups) and followed them in 2-3 years.
+In the past years before 2020, I was fascinated with right ways to do softwares and studied following enterprise application technologies. I am still interesting in those technologies. In the covid 19 pandemic period of last half of 2020, I reconsidered life, I shifted my interest into finance and studied accounting, [Investment Philosophies](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastinvphil.htm), [Valuation](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastvalonline.htm). When I was Asia Fusion Technology, I was interested in [startups](#startups) and followed them in 2-3 years. After above short detour, I am still passionate about IT and keep leaning and practicing IT technologies. 
 
-#### Enterprise application technologies:
+####  Technologies:
 * data modeling: data model resource, EAV, SQL&NoSQL, Analysis Pattern, Party, Product & Product Variant etc
 * domain driven design (DDD)
 * Event Sourcing
@@ -16,5 +16,5 @@ In the past years before 2020, I was fascinated with right ways to do softwares 
 * OS: linux, Windows
 * cloud: aws, azure, alibaba, [kubernetes](https://github.com/jackliusr/k8s)
 * cloud native application technologies: 12factor, beyond 12factors
-* cicd: argocd, argo-workflow, jenkins, github action, gitlab pipeline
+* cicd: argocd, argo-workflow, jenkins, github action, gitlab pipeline, [bazel](https://github.com/jackliusr/bazel-learning)
 * DevOps & SRE : ansible, prometheus, influx, grafana, elastic search, kabana, alert, USE/RED metrics, Four Golden Signals
