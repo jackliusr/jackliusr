@@ -6,7 +6,7 @@ In the past years before 2020, I was fascinated with right ways to do softwares 
 * Data modeling: Star and Snowflake schema, data model resource, EAV, SQL&NoSQL, Analysis Pattern, Party, Product & Product Variant etc
 * Design: domain driven design (DDD), Event Sourcing, Command and Query Responsibility Segregation (CQRS)
 * Patterns: idioms, design, micro-service, UI, Analysis, unit test, antipattern, database, regexp
-* ERP frameworks(odoo, idempiere): metadata driven develop, DSL, dynamic form generator, [appliation dictionary](https://adempiere.gitbook.io/docs/system-administration/the-application-dictionary), extension mechanism  etc.
+* ERP frameworks(odoo, idempiere): metadata driven develop, DSL, dynamic form generator, [application dictionary](https://adempiere.gitbook.io/docs/system-administration/the-application-dictionary), extension mechanism  etc.
 * workflow/process, BPM, BPEL
 * language: c/c++, java, golang, javascript, dart, rust, typescript, python, ruby, xml
 * Frameworks: angular, reactjs, vuejs, flutter, MFC, WinForm, WCF, WPF 
