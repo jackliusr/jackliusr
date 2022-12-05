@@ -11,7 +11,8 @@ In the past years before 2020, I was fascinated with right ways to do softwares 
 * language: c/c++, java, golang, javascript, dart, rust, typescript, python, ruby, xml
 * Frameworks: angular, reactjs, vuejs, flutter, MFC, WinForm, WCF, WPF 
 * functional programming: clojure, scala, lisp, haskell
-* big data: machine mining, neural networks, Reinforcement learning (RL)  and deep learng etc
+* big data: machine mining, neural networks, computer vision, spark, flink
+* MQ & Stream: ActiveMQ, RabbitMQ, MSMQ, Kafka
 * OS: linux, Windows
 * cloud: [kubernetes](https://github.com/jackliusr/k8s), aws, azure, alibaba, 
 * Cloud native application technologies: 12factor, beyond 12factors
