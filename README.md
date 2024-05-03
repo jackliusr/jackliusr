@@ -5,7 +5,7 @@ In the past years before 2020, I was fascinated with right ways to do softwares 
 ####  Technologies:
 * Data modeling: Star and Snowflake schema, data model resource, EAV, SQL&NoSQL, Analysis Pattern, Party, Product & Product Variant etc
 * Design: domain driven design (DDD), Event Sourcing, Command and Query Responsibility Segregation (CQRS)
-* Patterns: idioms, design, micro-service, UI, Analysis, unit test, antipattern, database, regexp
+* Patterns: idioms, design, micro-service, UI, Analysis, unit test, antipattern, database, regex
 * ERP frameworks(odoo, idempiere): metadata driven develop, DSL, dynamic form generator, [application dictionary](https://adempiere.gitbook.io/docs/system-administration/the-application-dictionary), extension mechanism  etc.
 * workflow/process, BPM, BPEL
 * language: c/c++, java, golang, javascript, dart, rust, typescript, python, ruby, xml
@@ -19,4 +19,4 @@ In the past years before 2020, I was fascinated with right ways to do softwares 
 * CICD: argocd, argo-workflow, jenkins, github action, gitlab pipeline, [bazel](https://github.com/jackliusr/bazel-learning)
 * DevOps & SRE : ansible, prometheus, influx, grafana, elastic search, kabana, alert, USE/RED metrics, Four Golden Signals, chaos engineering
 * Developer experience (DX): skaffold, tilt, telepresence
-* Biz Domains: SCADA, Command and Control, Warehouse management, ERP, e-commerce, payment, gaming, core-banking system, Credit process/system, VPN, VoIP, Hospital information system
+* Biz Domains: SCADA, Command and Control, Warehouse management, ERP, e-commerce, payment, gaming, core-banking system, Credit process/system, VPN, VoIP, Hospital information system, FHIR
