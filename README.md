@@ -8,7 +8,7 @@ In the past years before 2020, I was fascinated with right ways to do softwares 
 * Patterns: idioms, design, micro-service, UI, Analysis, unit test, antipattern, database, regex
 * ERP frameworks(odoo, idempiere): metadata driven develop, DSL, dynamic form generator, [application dictionary](https://adempiere.gitbook.io/docs/system-administration/the-application-dictionary), extension mechanism  etc.
 * workflow/process, BPM, BPEL
-* language: c/c++, java, golang, javascript, dart, rust, typescript, python, ruby, xml
+* language: c/c++, c#, java, golang, javascript, typescript, dart, rust, jsonnet, python, ruby, xml, JsonSchema
 * Frameworks: angular, reactjs, vuejs, flutter, MFC, WinForm, WCF, WPF 
 * functional programming: clojure, scala, lisp, haskell
 * big data: machine mining, neural networks, computer vision, spark, flink
@@ -18,5 +18,6 @@ In the past years before 2020, I was fascinated with right ways to do softwares 
 * Cloud native application technologies: 12factor, beyond 12factors
 * CICD: argocd, argo-workflow, jenkins, github action, gitlab pipeline, [bazel](https://github.com/jackliusr/bazel-learning)
 * DevOps & SRE : ansible, prometheus, influx, grafana, elastic search, kabana, alert, USE/RED metrics, Four Golden Signals, chaos engineering
+* IoC: ansible, yaml, kustomize, helm, terraform
 * Developer experience (DX): skaffold, tilt, telepresence
 * Biz Domains: SCADA, Command and Control, Warehouse management, ERP, e-commerce, payment, gaming, core-banking system, Credit process/system, VPN, VoIP, Hospital information system, FHIR
