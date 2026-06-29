@@ -1,0 +1,457 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/jsonresume.org/refs/heads/master/packages/schema/schema.json",
+  "basics": {
+    "name": "Liu Shu Rui (Jack)",
+    "label": "Technical Architect (VP) at Crédit Agricole CIB",
+    "email": "jackliusr@gmail.com",
+    "phone": "(65) 9181-1765",
+    "image": "",
+    "location": {
+      "address": "Singapore",
+      "countryCode": "SG"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/jackliusr/",
+        "username": "jackliusr"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/jackliusr",
+        "username": "jackliusr"
+      },
+      {
+        "network": "Blog",
+        "url": "https://jackliusr.github.io/",
+        "username": "jackliusr"
+      },
+      {
+        "network": "Medium",
+        "url": "https://medium.com/@jackliusr",
+        "username": "jackliusr"
+      }
+    ],
+    "summary": "DevOps & Full-Stack Engineer & Team Leader & Solution Architect with 20+ years of experience building prototype and production systems from the ground up. 6+ years as a tech lead (up to 10 members) practicing Scrum/Agile with a servant leadership style. Expertise in AI/LLM-powered solutions (agentic workflows, RAG, Knowledge Graphs, DSPy), cloud-native architectures (AWS, Azure, GCP, Alibaba), Kubernetes, DevSecOps, GitOps, and event-driven systems. Proficient in TypeScript, Python, C#, Java, Go, Rust, C/C++, Dart, and more. Experienced across banking, healthcare, gaming, SCADA, and enterprise domains.",
+    "url": "https://github.com/jackliusr"
+  },
+  "work": [
+    {
+      "name": "Crédit Agricole CIB",
+      "position": "Technical Architect (Vice President)",
+      "location": "Singapore",
+      "startDate": "2025-04-30",
+      "summary": "Modernize legacy systems to Cloud (GCP, AWS) and Kubernetes-native architectures. Improve team productivity through CI/CD, shift-left testing, and AI spec-driven development. Review architectures as a member of the architect panel.",
+      "highlights": [
+        "Migrated systems with 20+ years of legacy by resolving compatibility issues and guiding teams through migration",
+        "Reduced development effort by 10x-100x via spec-driven development methodologies",
+        "Designed and implemented Current Account and Term Deposit modules using spec-kit and BIAN model",
+        "Transformed batch-based system into real-time solution using Linux kernel APIs (fanotify), improving business performance",
+        "Reduced troubleshooting time from weeks to minutes by developing custom internal utility tools",
+        "Accelerated development environment setup from days to seconds with internal DevContainers",
+        "Reduced costs and improved efficiency by optimizing prompts, agents.md and skills.md using DSPy"
+      ],
+      "url": "https://www.linkedin.com/company/credit-agricole-cib/"
+    },
+    {
+      "name": "Synapxe",
+      "position": "Senior Manager (Solution Architect)",
+      "location": "Singapore",
+      "startDate": "2024-02-29",
+      "endDate": "2025-04-30",
+      "summary": "Conduct market research and competitor analysis to refine product roadmaps. Enhance internal FHIR server products. Support project teams on FHIR-related technical matters.",
+      "highlights": [
+        "Achieved unlimited scalability and saved operational costs by implementing a DynamoDB FHIR backend",
+        "Reduced configuration effort by 2x-5x by authoring a JSON Schema for data validation and code autocompletion",
+        "Set strategic direction through comprehensive research of the FHIR server market"
+      ],
+      "url": "https://www.linkedin.com/company/synapxe/"
+    },
+    {
+      "name": "NTUC ARU",
+      "position": "Lead Consultant (Technical Architect)",
+      "location": "Singapore",
+      "startDate": "2023-04-30",
+      "endDate": "2024-02-29",
+      "summary": "Envision, communicate, and evolve enterprise architecture. Review designs from vendors. Propose solutions based on requirements. Stakeholder and vendor liaison. DevSecOps & SRE.",
+      "highlights": [
+        "Successfully delivered architecture activities across 6 projects in different stages",
+        "Reduced costs and improved quality of systems by identifying and proposing better design and implementation approaches"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Bidot Technology Pte Ltd (formerly Dong Er)",
+      "position": "Team Lead & Full-stack Engineer & Solution Architect",
+      "location": "Singapore",
+      "startDate": "2020-07-31",
+      "endDate": "2023-03-31",
+      "summary": "Provide technical solutions for cloud-based projects (gaming platform, VPN, hospital management system). Lead DevOps team (5), frontend Flutter developers (2), and DBA (1). R&D new technologies to improve productivity and developer experiences.",
+      "highlights": [
+        "Recruited, grew and led a team of ~10 (QA, frontend, backend, designer, Infra) from scratch",
+        "Pioneered microservices, Kubernetes, CI/CD pipelines, GitOps and 12-factor principles in gaming platform",
+        "Reduced costs to half of machines (800+) and network transfer",
+        "Saved at least 100 man-months cost for hospital management system by choosing correct framework and training staff",
+        "Gathered and analyzed competitor information using Open-source intelligence (OSINT)"
+      ],
+      "url": "https://www.linkedin.com/company/bidot-tech/"
+    },
+    {
+      "name": "Asia Fusion Technologies Pte Ltd",
+      "position": "Team Lead & Solution Architect",
+      "location": "Singapore",
+      "startDate": "2012-05-31",
+      "endDate": "2020-06-30",
+      "summary": "Deliver solution architecture according to project requirements. Lead teams following good software engineering practices and design methodology. Gather business requirements and translate into functional specifications. Evaluate new technologies and report industry trends.",
+      "highlights": [
+        "Grew and led a cross-functional team (3 Senior Devs, 2 Big Data Engineers, 2 DBAs)",
+        "Integrated VoIP call centre, Worldpay, and gaming from different vendors",
+        "Built fraud detection using neural network-based facial recognition system",
+        "Developed game recommendation system based on content-based filtering",
+        "Integrated Business Intelligence (PowerBI, Tableau)",
+        "Maintained 2 hours downtime for 8 years as DBA team lead (Oracle, PostgreSQL)",
+        "Avoided compression license cost using Data Guard workaround (SSH compression + AutoSSH)"
+      ],
+      "url": "https://www.linkedin.com/company/asia-fusion-technology-ltd/"
+    },
+    {
+      "name": "Combuilder",
+      "position": "Team Lead",
+      "location": "Singapore",
+      "startDate": "2010-03-31",
+      "endDate": "2012-04-30",
+      "summary": "Analyze problems and requirements, propose solutions at product system level. Provide technical guidance to team members. Manage SCADA and product core domain subsystems.",
+      "highlights": [
+        "Cut building time to 1/4 using ccache, distributed cache and makefile with multiple jobs",
+        "Delivered 2 modules successfully across two projects"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Y3 Technologies Pte Ltd",
+      "position": "Assistant Manager",
+      "location": "Singapore",
+      "startDate": "2008-07-31",
+      "endDate": "2010-03-31",
+      "summary": "Design JEE and BPM systems. Architect integrated CRM, Portal and Business Intelligence (Pentaho) solutions. Design ETL for data migration into data warehouse. Design integrated security solutions.",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/y3technologies/"
+    },
+    {
+      "name": "ST Electronics (Software Services) Pte Ltd",
+      "position": "Team Leader / Senior Software Engineer / Technical Leader",
+      "location": "Singapore",
+      "startDate": "2003-12-31",
+      "endDate": "2008-06-30",
+      "summary": "Worked as team lead within the Technical Architecture team for JEE/DotNet systems architecting, design and implementation. Managed 6-8 developers. Responsible for project schedule, cost and quality across the full lifecycle. Coordinated with customers and resolved technical issues.",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/st-engineering/"
+    },
+    {
+      "name": "eBuilds Technology Ltd",
+      "position": "Software Engineer",
+      "location": "Shenzhen, Guangdong, PRC",
+      "startDate": "2003-01-31",
+      "endDate": "2003-11-30",
+      "summary": "Software development, system maintenance, requirements gathering, and functional specifications. Migrated legacy systems to web-based applications.",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "name": "New World Cyberbase Co. Ltd",
+      "position": "Software Engineer / Team Leader",
+      "location": "Shenzhen, Guangdong, PRC",
+      "startDate": "2000-08-31",
+      "endDate": "2002-12-31",
+      "summary": "Engaged in Java J2EE software development projects, system maintenance, requirements gathering, and functional specifications. Implemented WAP game and telecom system. Unit and system testing, design and test documentation.",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "name": "Wuhan HongRen Information Co. Ltd",
+      "position": "Software Engineer",
+      "location": "Wuhan, Hubei, PRC",
+      "startDate": "1999-07-31",
+      "endDate": "2000-07-31",
+      "summary": "Software development and system testing in Business Entity Management domain using Oracle and PowerBuilder technologies.",
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "National University of Singapore",
+      "area": "Knowledge Engineering",
+      "studyType": "Graduate Diploma",
+      "startDate": "2009-12-31",
+      "endDate": "2011-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Zhengzhou University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "1995-12-31",
+      "endDate": "1999-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certified Kubernetes Security Specialist (CKS)",
+      "issuer": "CNCF",
+      "startDate": "2024-12-31"
+    },
+    {
+      "name": "Certified Kubernetes Administrator (CKA)",
+      "issuer": "CNCF",
+      "startDate": "2023-12-31"
+    },
+    {
+      "name": "Datadog",
+      "issuer": "Datadog",
+      "startDate": "2023-12-31"
+    },
+    {
+      "name": "Fundamentals of Liquibase",
+      "issuer": "Liquibase",
+      "startDate": "2023-12-31"
+    },
+    {
+      "name": "GCC Certified - Foundation",
+      "issuer": "Gremlin",
+      "startDate": "2023-12-31"
+    },
+    {
+      "name": "Intermediate for Istio by Solo.io",
+      "issuer": "Solo.io",
+      "startDate": "2022-12-31"
+    },
+    {
+      "name": "GitOps at Scale",
+      "issuer": "Codefresh",
+      "startDate": "2022-12-31"
+    },
+    {
+      "name": "Gremlin Certified Chaos Engineering Professional (GCCEPro)",
+      "issuer": "Gremlin",
+      "startDate": "2022-12-31"
+    },
+    {
+      "name": "Certified Calico Operator: AWS Expert",
+      "issuer": "Tigera",
+      "startDate": "2021-09-30",
+      "url": "https://courses.academy.tigera.io/certificates/79c587fc56724eb3ab452104803f6a8f"
+    },
+    {
+      "name": "Certified Calico Operator: Level 1",
+      "issuer": "Tigera",
+      "startDate": "2021-09-30",
+      "url": "https://courses.academy.tigera.io/certificates/d730f6c4ce6141898a755a29bfa8666e"
+    },
+    {
+      "name": "AWS Certified Solutions Architect – Associate",
+      "issuer": "Amazon Web Services (AWS)",
+      "startDate": "2020-02-28",
+      "url": "https://aw.certmetrics.com/amazon/public/verification.aspx"
+    },
+    {
+      "name": "EFSET English Certificate - 70/100, Advanced (CEFR C1)",
+      "issuer": "EF Education First",
+      "startDate": "2020-02-28",
+      "url": "https://www.efset.org/cert/DXruDz"
+    },
+    {
+      "name": "Functional Programming Principles in Scala",
+      "issuer": "Coursera",
+      "startDate": "2012-11-30",
+      "url": "https://www.coursera.org/course/progfun"
+    },
+    {
+      "name": "Oracle Database Administration 8i",
+      "issuer": "Oracle",
+      "startDate": "2003-09-30"
+    },
+    {
+      "name": "Microsoft Certified Solution Developer (Visual C++ 6)",
+      "issuer": "Microsoft",
+      "startDate": "2001-10-31"
+    },
+    {
+      "name": "Microsoft Certified Database Administrator",
+      "issuer": "Microsoft",
+      "startDate": "2001-11-30"
+    },
+    {
+      "name": "Microsoft Certified Systems Engineer",
+      "issuer": "Microsoft",
+      "startDate": "2001-12-31"
+    }
+  ],
+  "skills": [
+    {
+      "name": "AI & Machine Learning",
+      "keywords": [
+        "Prompt Engineering", "LangChain", "ADK", "CrewAI", "Microsoft Agent Framework",
+        "Data Mining", "NLP", "TensorFlow", "PyTorch", "Keras", "Deep-Agent",
+        "Spec-Driven Development (spec-kit)", "Context Engineering", "Harness Engineering",
+        "Ollama", "vLLM", "OpenRouter", "SLURM", "Gemini", "OpenAI",
+        "Milvus", "RAG", "DSPy", "Agent Evaluation"
+      ]
+    },
+    {
+      "name": "Coding Agents",
+      "keywords": ["Codex", "Copilot", "Claude Code", "OpenCode"]
+    },
+    {
+      "name": "Big Data",
+      "keywords": [
+        "Spark", "Airflow", "Flink", "Beam", "Hive", "Cassandra", "Hadoop", "MapReduce",
+        "Machine Mining", "Neural Networks", "Computer Vision"
+      ]
+    },
+    {
+      "name": "Data Pipeline",
+      "keywords": ["dbt", "Dagster"]
+    },
+    {
+      "name": "Business Intelligence",
+      "keywords": ["Tableau", "PowerBI"]
+    },
+    {
+      "name": "API & Protocols",
+      "keywords": [
+        "OpenAPI", "Swagger", "Spectral", "GraphQL", "REST", "gRPC",
+        "COM", "DCOM", "CORBA", "Protobuf"
+      ]
+    },
+    {
+      "name": "Data Modeling",
+      "keywords": [
+        "Star Schema", "Snowflake Schema", "Data Mart", "Data Vault",
+        "EAV", "SQL", "NoSQL", "Analysis Patterns", "Data Lake", "Lakehouse"
+      ]
+    },
+    {
+      "name": "Low/No Code & Automation",
+      "keywords": ["Power Platform", "Power Automate", "Power Apps", "N8N"]
+    },
+    {
+      "name": "Architecture & Design",
+      "keywords": [
+        "Domain-Driven Design (DDD)", "Event Sourcing", "CQRS",
+        "Event-Driven Architecture", "Evolutionary Architecture", "SOA", "TOGAF", "BIAN",
+        "Microservices", "12-Factor Apps", "Beyond 12 Factors"
+      ]
+    },
+    {
+      "name": "Languages",
+      "keywords": [
+        "C#", "C/C++", "Java", "Go", "JavaScript", "Dart", "Rust",
+        "TypeScript", "Python", "Ruby", "XML", "JsonSchema", "Scala", "Clojure", "Lisp", "Haskell"
+      ]
+    },
+    {
+      "name": "Frontend Frameworks",
+      "keywords": ["Angular", "ReactJS", "VueJS", "UmiJS", "Flutter", "MFC", "WinForm", "WCF", "WPF", "HTML5", "CSS", "jQuery", "AJAX"]
+    },
+    {
+      "name": "Messaging & Streaming",
+      "keywords": ["ActiveMQ", "RabbitMQ", "MSMQ", "Kafka"]
+    },
+    {
+      "name": "Integration",
+      "keywords": ["Kong (API Gateway, Mesh, Konnect)", "APIM", "Pentaho", "SSIS", "Azure Data Factory", "Power Query"]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "Oracle", "MSSQL", "PostgreSQL", "MySQL", "ClickHouse", "Snowflake",
+        "MongoDB", "DynamoDB", "Neo4j", "Flyway"
+      ]
+    },
+    {
+      "name": "Security",
+      "keywords": ["OpenID", "OIDC", "SSO", "CKS"]
+    },
+    {
+      "name": "Cloud & Infrastructure",
+      "keywords": ["AWS", "Azure", "GCP", "Alibaba Cloud", "Kubernetes", "Dapr", "OpenShift", "Docker", "Terraform"]
+    },
+    {
+      "name": "CI/CD & GitOps",
+      "keywords": [
+        "ArgoCD", "Argo Workflows", "Jenkins", "GitHub Actions", "GitLab Pipeline",
+        "Bazel", "Maven", "Gradle"
+      ]
+    },
+    {
+      "name": "DevOps & SRE",
+      "keywords": [
+        "Ansible", "Prometheus", "InfluxDB", "Grafana", "ELK", "AlertManager",
+        "USE/RED Metrics", "Four Golden Signals", "Chaos Engineering",
+        "Platform Engineering", "PagerDuty", "Datadog", "Git", "Tilt", "Skaffold", "Telepresence"
+      ]
+    },
+    {
+      "name": "Workflow & Process",
+      "keywords": ["BPM", "BPEL", "Temporal"]
+    },
+    {
+      "name": "ERP Frameworks",
+      "keywords": ["Odoo", "iDempiere", "Tryton", "Metadata-Driven Development", "DSL"]
+    },
+    {
+      "name": "Domains",
+      "keywords": [
+        "SCADA", "Command & Control", "Warehouse Management", "ERP", "CRM (Dynamics 365)",
+        "E-Commerce", "Payment", "Gaming", "Core Banking", "Credit Systems",
+        "VPN", "VoIP", "Hospital Information Systems", "FHIR"
+      ]
+    },
+    {
+      "name": "IT GRC",
+      "keywords": ["COBIT", "ITIL"]
+    },
+    {
+      "name": "Banking Standards",
+      "keywords": [
+        "BIAN", "SWIFT", "ISO 20022", "FpML", "XBRL",
+        "Fineract", "Mifos X", "Mojaloop", "Flexcube", "Oracle Banking Microservices"
+      ]
+    },
+    {
+      "name": "Leadership",
+      "keywords": ["Servant Leadership", "Agile/Scrum", "Team Building", "Mentoring", "Stakeholder Management"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced (CEFR C1)"
+    }
+  ],
+  "projects": [
+    {
+      "name": "nCQRS",
+      "startDate": "2012-10-31",
+      "summary": "C# CQRS Framework",
+      "url": "https://github.com/jackliusr/ncqrs"
+    }
+  ],
+  "publications": [],
+  "references": [],
+  "awards": [],
+  "interests": [],
+  "volunteer": [],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "version": "v1.0.0"
+  }
+}
